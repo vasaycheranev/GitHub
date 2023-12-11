@@ -1,0 +1,15 @@
+if c =="+"
+s = a+break
+print(s)
+elif c="_":
+s = a-b 
+print(s)
+elif c=="*"
+s =a*b 
+print(s)
+elif c=="/"
+s = a/b
+print (s)
+elif c=="**"
+s = a**b
+print(s)
